@@ -1,0 +1,50 @@
+[
+    {
+        "url": "./assets/cars/porsche.jpg",
+        "caption": "Porsche",
+        "location": {
+            "latitude": 37.759954,
+            "longitude": -122.403674
+        }
+    },
+    {
+        "url": "./assets/cars/ferrari.jpg",
+        "caption": "Ferrari",
+        "location": {
+            "latitude": 37.745578,
+            "longitude": -122.483010
+        }
+    },
+    {
+        "url": "./assets/cars/chevy_pickup.jpg",
+        "caption": "Chevy Pickup",
+        "location": {
+            "latitude": 37.562451,
+            "longitude": -122.334549
+        }
+    },
+    {
+        "url": "./assets/cars/airstream.jpg",
+        "caption": "Mercedes Benz Airstream",
+        "location": {
+            "latitude": 37.446645,
+            "longitude": -122.141739
+        }
+    },
+    {
+        "url": "./assets/cars/audi.jpg",
+        "caption": "Audi Sedan",
+        "location": {
+            "latitude": 37.377921,
+            "longitude": -122.089841
+        }
+    },
+    {
+        "url": "./assets/cars/mercedes.jpg",
+        "caption": "Mercedes Sedan",
+        "location": {
+            "latitude": 37.720539,
+            "longitude": -122.463079
+        }
+    }
+]
