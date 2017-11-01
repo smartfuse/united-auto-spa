@@ -130,15 +130,6 @@ body {
     margin-top: 10px;
 }
 
-.seal {
-    height: 30px;
-    margin-top: -5px;
-}
-
-.seal:hover {
-    opacity: 0.7;
-}
-
 .navbar-brand:hover {
     opacity: 0.7;
 }
