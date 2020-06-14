@@ -1,12 +1,9 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="65" height="19.01" viewBox="0 0 65 19.01">
-  <title>logo</title>
-  <g>
-    <line y1="4.51" x2="21" y2="4.51" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
-    <line x1="3.25" y1="8.51" x2="21" y2="8.51" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
-    <line x1="7.75" y1="12.51" x2="21" y2="12.51" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
-    <line x1="44" y1="4.51" x2="65" y2="4.51" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
-    <line x1="44" y1="8.51" x2="61.75" y2="8.51" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
-    <line x1="44" y1="12.51" x2="57.25" y2="12.51" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 2px"/>
-    <path d="M376.42,378.12a4.62,4.62,0,0,0,1.81-.34,3.78,3.78,0,0,0,1.35-.95,4.15,4.15,0,0,0,.84-1.48,6.09,6.09,0,0,0,.29-2V362.14h3.5V373.4a8.7,8.7,0,0,1-.54,3.1,7,7,0,0,1-1.55,2.46,7.08,7.08,0,0,1-2.46,1.61,9.42,9.42,0,0,1-6.5,0,6.89,6.89,0,0,1-4-4.07,8.69,8.69,0,0,1-.54-3.1V362.14h3.5v11.24a6.09,6.09,0,0,0,.29,2,4.27,4.27,0,0,0,.84,1.49,3.68,3.68,0,0,0,1.35,1A4.62,4.62,0,0,0,376.42,378.12Z" transform="translate(-343.96 -362.14)"/>
-  </g>
+<svg width="107" height="31" viewBox="0 0 107 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 7.35455H34.5692" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M5.35 13.8774H34.5692" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M12.7577 20.4003H34.5692" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M72.4308 7.35455H107" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M72.4308 13.8774H101.65" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M72.4308 20.4003H94.2423" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M53.4342 26.0589C54.4549 26.074 55.4682 25.8855 56.4137 25.5044C57.2607 25.1565 58.0195 24.6275 58.636 23.9552C59.2603 23.254 59.7311 22.4323 60.0188 21.5418C60.3602 20.4886 60.5215 19.3863 60.4962 18.2804V0H66.2577V18.3619C66.274 20.0865 65.9728 21.7996 65.3688 23.4171C64.8111 24.9165 63.9418 26.2831 62.8172 27.4287C61.6677 28.5749 60.2881 29.4694 58.7677 30.0542C55.314 31.3118 51.5214 31.3118 48.0677 30.0542C46.5553 29.478 45.185 28.5876 44.0492 27.4427C42.9134 26.2979 42.0383 24.9252 41.4831 23.4171C40.8787 21.7997 40.5775 20.0865 40.5942 18.3619V0H46.3557V18.3293C46.3304 19.4352 46.4917 20.5375 46.8331 21.5907C47.1239 22.4847 47.5942 23.3112 48.2159 24.0205C48.8198 24.7265 49.5804 25.2846 50.4382 25.6512C51.3992 25.9844 52.418 26.123 53.4342 26.0589Z" fill="white"/>
 </svg>
