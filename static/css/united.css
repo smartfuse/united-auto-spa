@@ -5,20 +5,20 @@ body {
 }
 
 .action-button {
-    background: black;
-    border: 1px solid white;
+    background: #FFFFFF;
+    border: none;
     border-radius: 100px;
     font-size: 18px;
     font-family: "Lato", sans-serif;
     min-width: 160px;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #FFFFFF;
+    color: #000000;
     outline: 0;
 }
 
 .action-button:hover, .action-button:active {
-    background: rgb(30, 30, 30);
+    background: rgb(255, 255, 255, 0.8);
 }
 
 .small-text {
@@ -34,47 +34,6 @@ body {
     font-size: 18px;
 }
 
-/** Top section **/
-
-.logo {
-    height: 35px;
-    margin-top: 90px;
-    margin-bottom: 40px;
-}
-
-.top-section {
-    padding: 50px;
-    color: white;
-    text-align: center;
-    width: 100%;
-    background: black;
-}
-
-.header-title {
-    font-size: 42px;
-    margin-bottom: 40px;
-    font-weight: 300;
-}
-
-.header-subtitle {
-    font-size: 18px;
-    margin-bottom: 60px;
-}
-
-.top-section .action-button {
-    margin-bottom: 60px;
-}
-
-@media(max-width: 768px) {
-    .logo {
-        margin-top: 40px;
-    }
-
-    .top-section .action-button {
-        margin-bottom: 40px;
-    }
-}
-
 /** Banner **/
 
 .banner {
@@ -82,14 +41,59 @@ body {
     text-align: center;
     box-sizing: border-box;
     padding: 20px;
+    font-size: 14px;
+}
+
+/** Top section **/
+
+.top-section {
+    padding: 40px;
+    color: #FFFFFF;
+    text-align: center;
+    width: 100%;
+    background: #000000;
+}
+
+.top-section .logo {
+    height: 48px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.top-section .header-title {
     font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+
+.top-section .action-button {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+/** Photos section **/
+
+.instagram-section {
+    width: 100%;
+    padding: 80px;
+    background: #FFFFFF;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.instagram-section iframe {
+    max-width: 768px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
 }
 
 /** Ceramic coating section **/
 
 .ceramic-section {
     padding: 80px;
-    background: white;
+    background: #E5E5E5;
     text-align: center;
 }
 
@@ -108,10 +112,44 @@ body {
 
 .ceramic-section img {
     width: 100%;
-    max-width: 500px;
+    max-width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .ceramic-section .price {
+    font-size: 42px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+/** Glass section **/
+
+.glass-section {
+    padding: 80px;
+    text-align: center;
+}
+
+.glass-section .large-text {
+    margin-bottom: 25px;
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.glass-section .normal-text {
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.glass-section img {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+.glass-section .price {
     font-size: 42px;
     font-weight: 300;
     margin-bottom: 10px;
@@ -122,9 +160,9 @@ body {
 .menu-section {
     width: 100%;
     padding: 80px;
-    background: black;
+    background: #000000;
     text-align: center;
-    color: white;
+    color: #FFFFFF;
     font-size: 18px;
 }
 
@@ -151,37 +189,8 @@ body {
 }
 
 .menu-section .col-md-9 {
-    border-left: 1px solid white;
+    border-left: 1px solid #FFFFFF;
     font-weight: 300;
-}
-
-.menu-section .action-button {
-    margin-top: 20px;
-    margin-bottom: 60px;
-}
-
-/** Photos section **/
-.instagram-section {
-    width: 100%;
-    padding: 80px;
-    background: white;
-    text-align: center;
-    color: black;
-}
-
-.instagram-section .large-text {
-    margin-bottom: 60px;
-    max-width: 768px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.instagram-section iframe {
-    max-width: 768px;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
 }
 
 /** Map **/
@@ -249,9 +258,9 @@ body {
 .profile-section {
     width: 100%;
     padding: 80px;
-    background: white;
+    background: #FFFFFF;
     text-align: center;
-    color: black;
+    color: #000000;
 }
 
 .profile-section .large-text {
@@ -276,7 +285,7 @@ body {
     border-radius: 8px;
     padding: 20px;
     background: #E5E5E5;
-    color: black;
+    color: #000000;
     font-weight: 300;
 }
 
@@ -297,7 +306,7 @@ body {
 
 .footer {
     padding: 80px;
-    background: black;
+    background: #000000;
     text-align: center;
-    color: white;
+    color: #FFFFFF;
 }
