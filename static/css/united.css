@@ -173,6 +173,15 @@ body {
     margin-right: auto;
 }
 
+.menu-section .small-text {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.menu-section b {
+    font-weight: 700;
+}
+
 .menu-section .container {
     max-width: 768px;
     margin-left: auto;
