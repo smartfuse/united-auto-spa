@@ -75,7 +75,7 @@ body {
 
 .instagram-section {
     width: 100%;
-    padding: 80px;
+    padding: 80px 40px;
     background: #FFFFFF;
     text-align: center;
     color: #FFFFFF;
@@ -146,7 +146,6 @@ body {
 .glass-section img {
     width: 100%;
     max-width: 400px;
-    margin-top: 20px;
 }
 
 .glass-section .price {
