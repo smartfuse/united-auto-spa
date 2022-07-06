@@ -13,12 +13,18 @@ body {
     min-width: 160px;
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     color: #000000;
     outline: 0;
 }
 
-.action-button:hover, .action-button:active {
+.action-button:enabled:hover, .action-button:enabled:active {
     background: rgb(255, 255, 255, 0.8);
+}
+
+.action-button:disabled {
+    opacity: 0.5;
 }
 
 .small-text {
