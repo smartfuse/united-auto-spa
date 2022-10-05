@@ -29,7 +29,12 @@
     </head>
     <body>
         <div class="banner">
-            <b>We're on break!</b> We will take online bookings again on November 1, 2022.
+            <% if (new Date().getFullYear() >= 2022) { %>
+                <b>We're back for 2022!</b> Book your service today. As always, all service is done with
+mask and gloves.
+            <% } else { %>
+                <b>Happy Holidays!</b> We will be resuming service on January 1, 2022
+            <% } %>
         </div>
         <div class="top-section">
             <img class="logo" src="/assets/logo.svg" />
@@ -38,7 +43,9 @@
                 Specializing in sports, luxury, classic, and exotic automobiles
             </div>
             <a id="Setmore_button_iframe" style="float:none" href=http://my.setmore.com/shortBookingPage/ee6223a1df4e44b2b7>
-                <button class="action-button" disabled>Check back on November 1</button>
+                <% if (new Date().getFullYear() >= 2022) { %>
+                    <button class="action-button">Book Now</button>
+                <% } %>
             </a>
         </div>
         <div class="instagram-section">
