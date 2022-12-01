@@ -28,7 +28,7 @@ function populateMap(vehicles) {
     marker = new google.maps.Marker({
       position: location,
       icon: {
-        url: '/assets/marker.svg',
+        url: 'assets/marker.svg',
         scaledSize: new google.maps.Size(24, 36),
 
       },
