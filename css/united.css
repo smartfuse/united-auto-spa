@@ -237,14 +237,31 @@ body {
     padding: 0;
 }
 
+.gm-style .gm-style-iw-c:focus {
+    outline: none !important;
+}
+
 .gm-style .gm-style-iw-c button {
     top: 0 !important;
     right: 0 !important;
     opacity: 1;
+    margin: 5px !important;
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 10px;
+    background: white !important;
+}
+
+.gm-ui-hover-effect:focus {
+    outline: none !important;
 }
 
 .gm-ui-hover-effect:hover {
     opacity: 0.8 !important;
+}
+
+.gm-ui-hover-effect>span {
+    margin: auto !important;
 }
 
 .gm-style .gm-style-iw-c button img {
