@@ -66,6 +66,22 @@ body {
     font-weight: 300;
 }
 
+.top-section .testimonials {
+    font-size: 14px;
+    border-top: 1px solid #AAAAAA;
+    border-bottom: 1px solid #AAAAAA;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-section .testimonials a {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
 .top-section .action-button {
     margin-bottom: 20px;
     margin-top: 20px;
@@ -302,7 +318,10 @@ body {
 }
 
 .profile-picture {
+    object-fit: cover;
+    border-radius: 50%;
     width: 80px;
+    height: 80px;
 }
 
 .profile-section .small-text {

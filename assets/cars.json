@@ -1,6 +1,6 @@
 [
     {
-        "url": "./assets/cars/porsche.jpg",
+        "url": "./assets/cars/lamborghini.jpg",
         "caption": "Lamborghini",
         "location": {
             "latitude": 37.759954,
@@ -45,6 +45,38 @@
         "location": {
             "latitude": 37.720539,
             "longitude": -122.463079
+        }
+    },
+    {
+        "url": "./assets/cars/mercedes_2.jpg",
+        "caption": "Mercedes Convertible",
+        "location": {
+            "latitude": 37.905499,
+            "longitude": -122.519952
+        }
+    },
+    {
+        "url": "./assets/cars/porsche.jpg",
+        "caption": "Porsche",
+        "location": {
+            "latitude": 37.876923,
+            "longitude": -122.456910
+        }
+    },
+    {
+        "url": "./assets/cars/porsche_2.jpg",
+        "caption": "Porsche",
+        "location": {
+            "latitude": 37.855778,
+            "longitude": -122.487619
+        }
+    },
+    {
+        "url": "./assets/cars/rolls_royce.jpg",
+        "caption": "Rolls Royce",
+        "location": {
+            "latitude": 37.828969,
+            "longitude": -122.231642
         }
     }
 ]
